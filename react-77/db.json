@@ -1,0 +1,156 @@
+{
+  "user": [
+    {
+      "username": "Aletha2",
+      "fullname": "Eddie Monahan",
+      "email": "Ken.OKeefe85@hotmail.com",
+      "password": "ZqWFfiIOnuRHNIt",
+      "id": "2"
+    },
+    {
+      "username": "Kiana_Reilly18",
+      "fullname": "Cory Roob",
+      "email": "Madison.Franecki@yahoo.com",
+      "password": "HNJgmxXXLZdoNX8",
+      "id": "3"
+    },
+    {
+      "username": "Lorena_Purdy47",
+      "fullname": "Orville Keebler",
+      "email": "Bryce_Okuneva@gmail.com",
+      "password": "1d7wK012w4cNu1e",
+      "id": "4"
+    },
+    {
+      "username": "Melody.Bernhard88",
+      "fullname": "Mr. Levi Lynch",
+      "email": "Adrian95@yahoo.com",
+      "password": "OjmdirWzKaCMBrg",
+      "id": "5"
+    },
+    {
+      "username": "Kurt71",
+      "fullname": "Loren Christiansen",
+      "email": "Esta_Mitchell@yahoo.com",
+      "password": "G1UgxXLlJKvzLKm",
+      "id": "8"
+    },
+    {
+      "username": "Jacinto.Crist92",
+      "fullname": "Peter Jacobs",
+      "email": "Roberta_Robel32@hotmail.com",
+      "password": "NxrsRiv_8dwi259",
+      "id": "11"
+    },
+    {
+      "username": "Orpha62",
+      "fullname": "Miss Stacy Schmitt",
+      "email": "Mathias.Langosh68@hotmail.com",
+      "password": "EaEvjj_rRM7zLuv",
+      "id": "14"
+    },
+    {
+      "username": "Cyril.Borer",
+      "fullname": "Casey Ferry",
+      "email": "Nina80@gmail.com",
+      "password": "SsipYyF71ly3L0k",
+      "id": "15"
+    },
+    {
+      "username": "Tess.Bailey",
+      "fullname": "Max Wehner",
+      "email": "Hal.Smith55@hotmail.com",
+      "password": "6V0IgSZ5lZJ5kUv",
+      "id": "16"
+    }
+  ],
+  "product": [
+    {
+      "productname": "Awesome Metal Chair",
+      "price": "999.00",
+      "categoryname": "Zemlak, Franey and Batz",
+      "id": "1"
+    },
+    {
+      "productname": "Elegant Wooden Chips",
+      "price": "790.00",
+      "categoryname": "Thiel Group",
+      "id": "2"
+    },
+    {
+      "productname": "Electronic Frozen Table",
+      "price": "496.00",
+      "categoryname": "Koch Group",
+      "id": "3"
+    },
+    {
+      "productname": "Sleek Fresh Computer",
+      "price": "149.00",
+      "categoryname": "Greenfelder Inc",
+      "id": "4"
+    },
+    {
+      "productname": "Tasty Rubber Ball",
+      "price": "647.00",
+      "categoryname": "Fay - Wiza",
+      "id": "5"
+    },
+    {
+      "productname": "Handcrafted Steel Car",
+      "price": "575.00",
+      "categoryname": "Halvorson Group",
+      "id": "6"
+    },
+    {
+      "productname": "Tasty Soft Fish",
+      "price": "119.00",
+      "categoryname": "Homenick LLC",
+      "id": "7"
+    },
+    {
+      "productname": "Sleek Frozen Shirt",
+      "price": "841.00",
+      "categoryname": "Bernier, Gerlach and Labadie",
+      "id": "8"
+    },
+    {
+      "productname": "Awesome Soft Shoes",
+      "price": "387.00",
+      "categoryname": "Robel - Farrell",
+      "id": "9"
+    },
+    {
+      "productname": "Fantastic Concrete Soap",
+      "price": "608.00",
+      "categoryname": "Kilback - Lehner",
+      "id": "10"
+    },
+    {
+      "productname": "Oriental Wooden Fish",
+      "price": "892.00",
+      "categoryname": "Luettgen, Dibbert and Huel",
+      "id": "11"
+    },
+    {
+      "productname": "Practical Frozen Shirt",
+      "price": "589.00",
+      "categoryname": "Rempel, Sipes and Schaden",
+      "id": "12"
+    },
+    {
+      "productname": "Licensed Soft Shirt",
+      "price": "401.00",
+      "categoryname": "Emmerich, Paucek and Pouros",
+      "id": "13"
+    },
+    {
+      "productname": "Handmade Plastic Pizza",
+      "price": "449.00",
+      "categoryname": "Ryan - Cronin",
+      "id": "14"
+    }
+  ],
+  "category": {
+    "name": "typicode"
+  }
+}
